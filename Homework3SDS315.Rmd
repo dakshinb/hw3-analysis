@@ -5,6 +5,20 @@ date: "2025-02-13"
 output: html_document
 ---
 
+
+
+Name: Dakshin Bharath 
+
+
+UTEID: db4757
+
+
+Github Repo Containting R Code: https://github.com/dakshinb/hw3-analysis.git
+
+
+
+
+
 ```{r setup, include=FALSE}
 # Load required packages (put this at the top)
 library(tidyverse)
